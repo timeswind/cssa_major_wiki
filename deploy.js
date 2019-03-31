@@ -2,10 +2,6 @@ var copydir = require("copy-dir");
 var nodejieba = require("nodejieba");
 var fs = require("fs");
 
-//中文分词搜索文档
-nodejieba.load({
-    userDict: './jieba_split_dict.dict.utf8'
-});
 
 var pagePathDictory = {};
 var searchDictionary = {};
