@@ -1,0 +1,52 @@
+# Actuarial Science 精算学
+
+作者：William 许蔚伦
+
+## 前言
+
+相信很多新生朋友对选专业都有很大的困惑，因此我们的专业百科专栏也就应运而生。我们会定期更新专业百科，每一期的专业百科都会详细介绍一个专业，并会回答一些相关问题。本期我们要讨论的专业是学校精算\(Actuarial Science\)专业。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaDdQsuhl7kHPDmvX7pmKmZPb2EzGgQoU8gQUwu5RKSXHtuqxxnSbkNuQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## 什么是精算？
+
+精算\(Actuarial Science\)，概括说就是运用现代数学，统计学，金融学以及经济学的基本原理，对未来经济活动中的风险进行评估和分析，又称风控\(Risk Management\)。因此我们发现精算在保险，金融以及投资行业的应用很广泛。由于是三种学科的集合，具备这种能力的高级复合型人才，精算师\(Actuary\)，也就成为稀缺的“香饽饽”。正所谓稀缺，资历高的精算师往往年薪高的吓人。
+
+一提到这薪水我琢磨着大家一下子就把持不住骚动的心准备收拾收拾来精算了，别着急哈，咱们接下来聊聊PSU的精算专业是怎么构成的。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaD05GNlibmibN8p11ZDxkImTfSNmKCoExF5F61lABR8Rv62TebbzWJicrhg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+PSU拥有全美最大最完善的精算体系，每年约有150人通过各种不同的精算考试，同时PSU也是15个Center of Actuarial Excellence的一员，由此可见PSU在精算领域还是很有实力和声誉的。
+
+在PSU精算有三个不同的分支，一个是在Smeal商学院旗下的Risk management major里，另外两个在Eberly科学学院的Math和Stat major里。三个分支都会有一些重合的课程，例如有关精算考试的课程在三个分支都是一样的：STAT 414 & SOA Probability Exam \(P Exam\)，RM 410 & SOA Financial Math Exam \(FM Exam\)，还有RM 415 & SOA Investment and Financial Markets \(IFM Exam\)等等。
+
+除了刚才提到的一些三个分支互相share的课程外，专业里剩下的课程由于在不同学院，所以侧重点也不同，在商学院下的分支会包含更多Business的课程，而Stat专业和Math专业会分别以统计课程和数学课程为主。**大家不必为这三个分支的选择哪个而纠结，都在精算program旗下, 更没有谁好谁坏之分，所以在选择时只需按照自己的兴趣方向选择即可。**
+
+\*\*\*\*![](https://mmbiz.qpic.cn/mmbiz_gif/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaDXwn3EjviczNyJPnzpIzRiaNsml0dFvdibgzOHyADtloG8JgibTjbYXe2UQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+
+## 那"噩梦"--Actuarial Exam
+
+在目前的精算体系中一共有两个阶段，一个是ASA另一个是FSA。![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaD1zKo1x5c6r1jNQsWspvneicNunq3sIrWiccBTCH255QniaduYD3Luw5Kw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+在PSU精算专业中，本科阶段的课程包含了所有ASA的部分，它包括6个exam（分别是Exam P，Exam FM，Exam IFM，Exam LTAM，Exam STAM，Exam SRM），1个project，还有几个seminar部分。就是在今年，一位毕业生成为了PSU史上唯一一个在毕业前完成ASA PATHWAY的学生。完成了ASA，也就拿到了准精算师的资格了。
+
+FSA是ASA的进阶版，这个阶段不是本科阶段考虑的范围，想达到FSA也有许多不同的track到fellowship，如下图：
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaDuxj2TIMyXeb0e5r8y7lXqnHM7LiaBEZcHpYwLXK4YJk5kmXOkotXX6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+更多信息请戳：[www.psuactsci.com](www.psuactsci.com)
+
+## 或许是“你“最想了解的
+
+1.  精算专业在PSU的三个分支中，由于学院不同，进专业的GPA要求也不同，其中Smeal商学院旗下的进专业的GPA为3.2 with 44 credit window（也就是说要至少在校内修满44个学分才可以申请进专业），剩下两个在数学和统计专业旗下的进专业GPA为2.0。
+
+2.  每年9月份和3月份学校都会组织Career Fair（具体时间任课老师或者大家的Advisor会给大家发送邮件通知时间），届时会有很多大公司来到学校，大家可以充分利用这个机会了解现在精算职业的情况和之后申请internship的要求。
+
+## 马上开学了怎么办？
+
+听完这么多干货，估计手机屏幕前的你会有些紧张，但别慌！稳住，我们能赢！其实在最开始的时候我们并不需要很担心什么刚开学上课会跟不上的问题，大一大二以主要修一些进专业的学科基础课程为主，第一学期很少接触到专业课。若暑假比较闲的同学，我建议好好复习一下高中学过的Calculus的知识比较好，精算这个专业是离不开Calculus和Probability知识的支撑的，所以在数学上打好基础会对之后的专业学习提供很好的帮助。
+
+## 最后唠叨几句...
+
+很多人说学精算很累，好多人头发都白\(tū\)了，还在考试。没错！精算专业的每年都要花很大一部分是去准备一场场考试，所以别人放假撒花，你就有可能在悲催的考试。考过的考试\(pass those exams!\)越多就代表着精算师的价值越高，自然也就预示着更高薪水的工作，所以这也让精算专业也就成为了学校里最难的几个专业之一（希望大家做好心理准备）。如果你酷爱数学并且对统筹数据很感兴趣，那么我可以说坚持学下来对你会是非常有前途的。
+
