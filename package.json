@@ -1,0 +1,14 @@
+{
+  "name": "CSSA-major-baike-gitbook",
+  "version": "0.1.1",
+  "description": "Penn State 宣传部CSSA专业百科，后端开发：杨铭添",
+  "main": "index.js",
+  "scripts": {
+    "test": "node deploy.js && exit 0"
+  },
+  "author": "Mingtian Yang",
+  "dependencies": {
+    "copy-dir": "^0.4.0",
+    "nodejieba": "^2.3.0"
+  }
+}
