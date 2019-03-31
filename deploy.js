@@ -27,7 +27,9 @@ fs.writeFile("./search.json", JSON.stringify(searchDictionary), function (err) {
 });
 
 //把图片移除隐藏文件夹
-copydir.sync("./.gitbook", "./gitbook");
+if (fs.existsSync("./.gitbook")) {
+    copydir.sync("./.gitbook", "./gitbook");
+}
 
 
 // tools
