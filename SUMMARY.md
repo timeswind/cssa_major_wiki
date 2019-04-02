@@ -13,4 +13,6 @@
 * [Finance 金融](finance-jin-rong.md)
 * [Supply Chain 供应链](supply-chain-gong-ying-lian.md)
 * [Biotechnology 生物技术](biotechnology-sheng-wu-ji-shu.md)
+* [Industrial Engineering 工业工程](industrial-engineering-gong-ye-gong-cheng.md)
+* [Biology 生物](biology-sheng-wu.md)
 
