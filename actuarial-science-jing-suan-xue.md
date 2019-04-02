@@ -6,15 +6,11 @@
 
 相信很多新生朋友对选专业都有很大的困惑，因此我们的专业百科专栏也就应运而生。我们会定期更新专业百科，每一期的专业百科都会详细介绍一个专业，并会回答一些相关问题。本期我们要讨论的专业是学校精算\(Actuarial Science\)专业。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaDdQsuhl7kHPDmvX7pmKmZPb2EzGgQoU8gQUwu5RKSXHtuqxxnSbkNuQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ## 什么是精算？
 
 精算\(Actuarial Science\)，概括说就是运用现代数学，统计学，金融学以及经济学的基本原理，对未来经济活动中的风险进行评估和分析，又称风控\(Risk Management\)。因此我们发现精算在保险，金融以及投资行业的应用很广泛。由于是三种学科的集合，具备这种能力的高级复合型人才，精算师\(Actuary\)，也就成为稀缺的“香饽饽”。正所谓稀缺，资历高的精算师往往年薪高的吓人。
 
 一提到这薪水我琢磨着大家一下子就把持不住骚动的心准备收拾收拾来精算了，别着急哈，咱们接下来聊聊PSU的精算专业是怎么构成的。
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaD05GNlibmibN8p11ZDxkImTfSNmKCoExF5F61lABR8Rv62TebbzWJicrhg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 PSU拥有全美最大最完善的精算体系，每年约有150人通过各种不同的精算考试，同时PSU也是15个Center of Actuarial Excellence的一员，由此可见PSU在精算领域还是很有实力和声誉的。
 
@@ -26,13 +22,11 @@ PSU拥有全美最大最完善的精算体系，每年约有150人通过各种�
 
 ## 那"噩梦"--Actuarial Exam
 
-在目前的精算体系中一共有两个阶段，一个是ASA另一个是FSA。![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaD1zKo1x5c6r1jNQsWspvneicNunq3sIrWiccBTCH255QniaduYD3Luw5Kw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+在目前的精算体系中一共有两个阶段，一个是ASA另一个是FSA。
 
 在PSU精算专业中，本科阶段的课程包含了所有ASA的部分，它包括6个exam（分别是Exam P，Exam FM，Exam IFM，Exam LTAM，Exam STAM，Exam SRM），1个project，还有几个seminar部分。就是在今年，一位毕业生成为了PSU史上唯一一个在毕业前完成ASA PATHWAY的学生。完成了ASA，也就拿到了准精算师的资格了。
 
-FSA是ASA的进阶版，这个阶段不是本科阶段考虑的范围，想达到FSA也有许多不同的track到fellowship，如下图：
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaDuxj2TIMyXeb0e5r8y7lXqnHM7LiaBEZcHpYwLXK4YJk5kmXOkotXX6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+FSA是ASA的进阶版，这个阶段不是本科阶段考虑的范围，想达到FSA也有许多不同的track到fellowship。
 
 更多信息请戳：[www.psuactsci.com](www.psuactsci.com)
 
