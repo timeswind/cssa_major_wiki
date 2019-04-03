@@ -2,9 +2,9 @@
 
 作者：刘嘉上
 
-维护更新人员：//
+维护更新人员：
 
-最近更新：//日期
+最近更新：
 
 ## 学院简介
 
@@ -44,11 +44,11 @@ Stuckeman School包括三个专业：Architecture，Landscape architecture，和
 
 ### **景观设计都会设计些什么？**
 
-不多说，上图 （不包括全部领域）![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+不多说，上图 （不包括全部领域）
 
-纽约中央公园![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+纽约中央公园
 
-高尔夫球场![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+高尔夫球场
 
 度假村resort
 

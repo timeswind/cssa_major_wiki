@@ -2,9 +2,9 @@
 
 作者：娜娜
 
-维护更新人员：//
+维护更新人员：
 
-最近更新：//日期
+最近更新：
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCJGI0eDMiakXm6pCkDgcghomnNzJcwgR6Tibl6OZl0IZpWu0S4NURlgvH7deDIHFalmqR0NJVZyprIA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -28,7 +28,9 @@
 
 在PSU的网站上，有非常清楚的选课建议及所有应必修的课。
 
-参考网址：[_http://bio.psu.edu/undergraduate-portal/our-curriculum_](http://bio.psu.edu/undergraduate-portal/our-curriculum)\_\_
+参考网址：
+
+[_http://bio.psu.edu/undergraduate-portal/our-curriculum_](http://bio.psu.edu/undergraduate-portal/our-curriculum)\_\_
 
 网站上甚至还告诉你什么课上学期有，什么课下学期有。非常建议印下两种选课建议单，然后自己一次排好这四年各学期要修的课，之后再随之作微调。或者跟着建议的选课单走也行，但建议在各学期再加上一堂或两堂课，才会感觉比较充实：）
 
