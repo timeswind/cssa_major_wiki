@@ -1,6 +1,6 @@
 # Nutrition Science 营养学
 
-作者：dx
+作者：解镝芯
 
 维护更新人员：//
 

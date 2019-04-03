@@ -1,10 +1,10 @@
 # Film 电影
 
-作者：xixi
+作者：韩雨汐
 
-维护更新人员：//
+维护更新人员：
 
-最近更新：//日期
+最近更新：
 
 > Film-Video major - A place to find your style and tell your stories.
 

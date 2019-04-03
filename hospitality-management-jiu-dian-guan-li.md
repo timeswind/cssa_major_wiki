@@ -1,10 +1,10 @@
----
-description: 洋溢着红酒和奶酪香的专业
----
-
 # Hospitality Management 酒店管理
 
 作者：Stella 杨雅超
+
+维护更新人员：//
+
+最近更新：//日期
 
 > 洋溢着红酒和奶酪香的专业
 

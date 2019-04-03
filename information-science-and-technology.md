@@ -6,10 +6,6 @@
 
 最近更新：//日期
 
-## 前言
-
-相信很多新生朋友对选专业都有很大的困惑，因此我们的专业百科专栏也就应运而生。我们会定期更新专业百科，每一期的专业百科都会详细介绍一个专业，并会回答一些相关问题。本期专业百科我们要讨论的专业是学校Information Science and Technology \(IST\)
-
 ## **IST学院简介**
 
 在开始介绍之前，我们一起看一看IST学院楼的高端颜值吧。![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTfFBlN8Wiaz5vUkxzwfZtJwIn9czHgicUoFiaiakPgIG9mTc5LYzkJAFxWlg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
