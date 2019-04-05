@@ -10,7 +10,9 @@
 
 作为容纳所有商科专业的教学楼，Smeal Business Building有着毫不逊色的颜值，宽敞的大厅是许多学生课余时间学习的场所，更是不少商科专属招聘会的举办地点。在Business Building内还有帮助商科学生求职提供宝贵机会和建议的Career Office（求职办公室），以及提供价值不菲的Bloomberg服务，帮助学生追踪市场动向的Rogers Family Trading Room。
 
-![http://mbainsight.com/smeal-college-business-psu/](https://mmbiz.qpic.cn/mmbiz_png/j6m3uZgXnCIMZwp9vdRZrfwE5S1DahRTVx9HkkB5W9pmQuyUJIWMuFrMB6I99IrqqTwjvW1UkRAALhoX49fBiag/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/smeal.jpeg)
+
+[http://mbainsight.com/smeal-college-business-psu/](http://mbainsight.com/smeal-college-business-psu/)
 
 ## **选择金融**专业意味着什么？
 

@@ -6,7 +6,7 @@
 
 最近更新：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCJGI0eDMiakXm6pCkDgcghomnNzJcwgR6Tibl6OZl0IZpWu0S4NURlgvH7deDIHFalmqR0NJVZyprIA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/biology.jpeg)
 
 生物专业隶属于the Eberly College of Science。在宾州州立大学, 生物学有分六个选项：General Biology, Ecology, Genetics and Developmental Biology, Neuroscience, Plant Biology, 和Vertebrate Physiology。总体来说，选择生物专业具有广泛的就业方向。
 

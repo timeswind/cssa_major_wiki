@@ -22,8 +22,6 @@ PSU拥有全美最大最完善的精算体系，每年约有150人通过各种�
 
 除了刚才提到的一些三个分支互相share的课程外，专业里剩下的课程由于在不同学院，所以侧重点也不同，在商学院下的分支会包含更多Business的课程，而Stat专业和Math专业会分别以统计课程和数学课程为主。**大家不必为这三个分支的选择哪个而纠结，都在精算program旗下, 更没有谁好谁坏之分，所以在选择时只需按照自己的兴趣方向选择即可。**
 
-\*\*\*\*![](https://mmbiz.qpic.cn/mmbiz_gif/j6m3uZgXnCIlyNdHfVFYZR1zBSickJnaDXwn3EjviczNyJPnzpIzRiaNsml0dFvdibgzOHyADtloG8JgibTjbYXe2UQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
-
 ## 那"噩梦"--Actuarial Exam
 
 在目前的精算体系中一共有两个阶段，一个是ASA另一个是FSA。
@@ -32,7 +30,9 @@ PSU拥有全美最大最完善的精算体系，每年约有150人通过各种�
 
 FSA是ASA的进阶版，这个阶段不是本科阶段考虑的范围，想达到FSA也有许多不同的track到fellowship。
 
-更多信息请戳：[www.psuactsci.com](www.psuactsci.com)
+更多信息请戳：
+
+[www.psuactsci.com](www.psuactsci.com)
 
 ## 或许是“你“最想了解的
 

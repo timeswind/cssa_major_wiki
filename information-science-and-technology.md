@@ -8,12 +8,11 @@
 
 ## **IST学院简介**
 
-在开始介绍之前，我们一起看一看IST学院楼的高端颜值吧。![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTfFBlN8Wiaz5vUkxzwfZtJwIn9czHgicUoFiaiakPgIG9mTc5LYzkJAFxWlg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+在开始介绍之前，我们一起看一看IST学院楼的高端颜值吧。
 
-（https://media.glassdoor.com/l/77/07/5a/a9/ist-building.jpg）![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTfCQY38fPbqKbFLsWyvhgRqTV0PjCOfGQryw6I4VoTyoEfhmLFylPnbg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/ist.jpeg)
 
-（http://wang.ist.psu.edu/docs/ist\_building\_inside.jpg）  
-
+![](.gitbook/assets/ist2.jpeg)
 
 Information Science and Technology专业开设与1998年，高端的教学楼在2004年落成，2017年教学楼更名为Westgate Building（厉不厉害，当学校大门的楼！）
 
@@ -22,13 +21,15 @@ Information Science and Technology专业开设与1998年，高端的教学楼在
 专业开设的目的是为了在基础的计算机科学（Computer Science），信息系统管理（Management Info System）之上，对新兴科技和对商业，媒体等不同行业领域进行结合。IST的学生不仅学习编程，数据库，信息系统的基础知识，也需要通过不同的Project去运用到现实生活中的个人，组织，甚至国际公司上来解决存在的或者潜在的问题。很多课程会也涉及现在很火的Big Data，Cloud Computing这些话题。
 
 这样说或许还是有些笼统，学院的专业下面还设置了四个本科学位的分支，让学生能更好的结合科技与现实运用。下面的板块给大家介绍一下Information Science and Technology本科学位 \(下图左上角\)。  
-![](https://mmbiz.qpic.cn/mmbiz_png/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTfKjvvmSOOtx0g6hFibIAP5hb5hhBr3uk2rd3DWp3l0fEGicKWk6dhOzicw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+![](.gitbook/assets/ist3.jpeg)
 
 ## **IST**
 
 IST本科学位之下有三个分支，不管哪一个分支，对需要大一大二完成的基础课都是几乎相同的要求，所以大家也会有比较充足的时间来思考和选择自己更适合哪一个分支去继续学习。三个分支是：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTfk4OgMnZewLiaBGZUBzxUPe5ALDic7HYujt4gYgxlUaww69G02fiaCibgKg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/ist4.jpeg)
 
 ## **Design & Development**
 
@@ -76,26 +77,21 @@ IST学院之下还有另外的专业，
 
 在这里和大家简单介绍下，
 
-如果想看其中某一个具体的推文，
-
-就去公众号留言吧  
-
-
 ## **Security Risk Analysis**
 
-这个专业很直白了，安全风险分析。学生会接触到信息系统的风险评估，如何保障，情报分析，应急策略等等的知识。SRA专业鼓励学生毕业之前去考相关的证书（CAE），为了提升自己的专业学习质量和毕业后的就业。  
-
+这个专业很直白了，安全风险分析。学生会接触到信息系统的风险评估，如何保障，情报分析，应急策略等等的知识。SRA专业鼓励学生毕业之前去考相关的证书（CAE），为了提升自己的专业学习质量和毕业后的就业。
 
 ## **Data Science**
 
-看到名字就知道是因为时代和火爆程度应运而生的新专业。前两年才新开的DS专业，课程安排却很多。这个专业有三个分支，其中有两个分别与College of Science和College of Engineering合办。分支的专业名称也非常直观，可以看出侧重点。  
-![](https://mmbiz.qpic.cn/mmbiz_png/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTfasc1d6IVrC262vZ5GnVZRIFUpEfTzD7f2aEhw45Sgwt9hIABpZMtlw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+看到名字就知道是因为时代和火爆程度应运而生的新专业。前两年才新开的DS专业，课程安排却很多。这个专业有三个分支，其中有两个分别与College of Science和College of Engineering合办。分支的专业名称也非常直观，可以看出侧重点。
 
 ## **Cybersecurity Analytics and Operations**
 
 网络安全分析这个专业有很多数学与编程的课。通常需要从很多方面考虑因素来保证信息安全。会学到很多有关Hacker的东西。课程安排也是很多。  
-![](https://mmbiz.qpic.cn/mmbiz_gif/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTf4Xt45iaXgk38etibFJt4TFF11DPvvajZiblfJjyMKasJb4Y1Q8ShaNBYA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)  
+  
 
+
+![](.gitbook/assets/ist5.gif)
 
 ## **另外聊一聊**
 
@@ -110,7 +106,9 @@ IST学院之下还有另外的专业，
 6. IST专业在本科期间需要完成一份300小时以上的实习（国内外皆可，但需要和学校联系进行认证）才能毕业哦。
 7. 学院有自己的Career Fair，也有自己的Career Consulting给大家提供各种寻找实习，求职，简历完善方面的帮助。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTfkwngfgJD4jnQicj5rANoMEPEuoObwlVgpyHMAWOqHExnAdPeNV7rnVg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+![](.gitbook/assets/ist6.png)
 
 最后希望这篇推送对大家有帮助，各位都能找到自己想学的专业，学有所成！
 
@@ -128,5 +126,7 @@ IST学院之下还有另外的专业，
 
 别人：“Ice Tea？IST？是什么专业啊？”
 
-我：“哦哈哈哈（和蔼又很烦的表情管理着）是Information Science Technology。”![](https://mmbiz.qpic.cn/mmbiz_gif/j6m3uZgXnCLruIicxfaVBvYWeXa0ibVaTfAaWMXNnwoicBP3g5WiaZiasmCqq5xxOgk8sDTdgsicLp5lxm38oGTL9LPw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+我：“哦哈哈哈（和蔼又很烦的表情管理着）是Information Science Technology。”
+
+![](.gitbook/assets/ist7.gif)
 

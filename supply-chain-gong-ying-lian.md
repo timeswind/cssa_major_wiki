@@ -10,7 +10,7 @@
 
 供应链与信息系统 \(Supply Chain and Information System\)，属于Penn State 商学院 \(Smeal College of Business\) 的一部分。Smeal商学院嘛，大楼也可以说是非常的酷炫了。全美排名20左右，也是向社会输送了各个方面的人才。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/j6m3uZgXnCLXY0vQSjroHOJ05vH6GZZADrTsR1UHLzjiaYr1a1pqzuVvr4S5jicqibgoxNFta0c1HibdjiaD36klm6g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/smeal2.jpeg)
 
 ### Penn State Smeal 商学院
 

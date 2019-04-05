@@ -8,7 +8,7 @@
 
 > Film-Video major - A place to find your style and tell your stories.
 
-![](https://mmbiz.qpic.cn/mmbiz_png/mYPicQ9ic3icsY8fDicichJBz79Et1gPnG5kbiau2osWnpldcicZ7vvoVKGUp1hicYy2bwSY80Rpriax6FWJiamCZ8E7Fn3Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/film.jpeg)
 
 不知道此刻你是不是和我们一样，有一个电影梦或是想去追逐的梦想，但恭喜你已经a step closer通往艺术的殿堂
 
@@ -55,7 +55,7 @@ PSU往届电影作品
 
 最后的最后，作为刚毕业的过\(lao\)来\(a\)人\(yi\)，我们希望今后psu电影人面对不同敢于坚持自我，既然选择就不后悔，因为喜欢所以放手一搏
 
-![&#x6765;&#x81EA;18&#x5C4A;&#x7535;&#x5F71;&#x7CFB;&#x625B;&#x628A;&#x5B50;](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCLXY0vQSjroHOJ05vH6GZZAlxXBomia1laQt7osQibJuibcplicOcamk6lOlx3CTJckx7KA5oezxmtqhA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](.gitbook/assets/film2.jpeg)
 
 > 在PSU学习电影获得了完全自由的创作空间，也结识了一群志同道合的朋友。所以不要害怕，尽情尝试，去拍片子吧。
 >

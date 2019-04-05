@@ -42,8 +42,6 @@ _**PSU进CS专业的最低GPA要求是3.0 with credit window: 40-59.**_ PSU的CS
 
 [https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/\#text](https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/#text)
 
-
-
 ## 最后再多说几句
 
 很多人问我CS难吗，我的回答是难。没有丝毫夸大其词，虚张声势的意思，CS真的是相对来说比较难的学科。**如果CS不是你热爱的，那么最好不要选这个专业。如果你确定自己要靠着这满腔的热爱要走上这条路，那么请一定坚持下去，未来是属于你们的！**  
