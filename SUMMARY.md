@@ -1,6 +1,7 @@
 # Table of contents
 
 * [专业百科介绍](README.md)
+* [Secondary Education 中等教育](secondary-education-zhong-deng-jiao-yu.md)
 * [Hospitality Management 酒店管理](hospitality-management-jiu-dian-guan-li.md)
 * [Actuarial Science 精算学](actuarial-science-jing-suan-xue.md)
 * [Landscape Architecture 景观设计](landscape-architecture-jing-guan-zhuan-ye.md)
