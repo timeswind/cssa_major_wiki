@@ -14,7 +14,7 @@
 
 College of Communication共有五大专业，分别为Journalism, Advertising/Public Relations, Media Studies, Telecommunication和Film-Video. PSU小村庄虽是“与世隔绝”，但却培养出电影界校友比如**Comedy Central vice president - Eric Blume； Se7en screenwriter - Andrew Kevin Walker以及many rising Stars**
 
-## **专业前景**![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+## **专业前景**
 
 除了在校的career fair外，电影系每年四月会在纽约举办一场名叫**Success in the City**的career fair,参加的recruiter包括CNN, Discovery, CBS等娱乐界大佬. 当晚学校会组织**Film & Friends networking night来reunion校友以及screen current student的电影作品**.
 
@@ -22,9 +22,9 @@ College of Communication共有五大专业，分别为Journalism, Advertising/Pu
 
 毕业后除了当freelancer, 工作方向一般为writers, producers, directors, cinematographers, sound designers and editors. 如果想留在美国发展，AMC, HBO, Discovery, Walt Disney, Showtime等影业公司都有psu的校友工作过（小tip: **申请前做好research看该公司是否提供sponsorship**\).
 
-## **关于film不得不说的事**![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+## **关于film不得不说的事**
 
-作为十分小众的专业, film一届约**40-50人,** 很容易跟教授们混脸熟，而且本专业的教授都是一百万分chill+热心肠, 所以可以放心大胆去social. 此处附上faculty照片一张，感兴趣的来猜猜看哪两对是married couple.![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+作为十分小众的专业, film一届约**40-50人,** 很容易跟教授们混脸熟，而且本专业的教授都是一百万分chill+热心肠, 所以可以放心大胆去social. 此处附上faculty照片一张，感兴趣的来猜猜看哪两对是married couple.
 
 电影专业要大三才declare major，但在此之前有两节必修课 - **comm150**\(The Art of the Cinema\)和**comm242**\(Basic Video/Filmmaking\).
 
@@ -34,7 +34,7 @@ College of Communication共有五大专业，分别为Journalism, Advertising/Pu
 
 \*在正式进入本专业后,就能立马开通VIP特权。Ex. **用student ID随意进出editing lab以及在innovation park借器材**。与Media Tech不同的是，IP装备齐全，大到dolly小到slate都能借到.
 
-## **如何进入电影专业**![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+## **如何进入电影专业**
 
 与其他专业不同的是，在正式进入film major前需要
 

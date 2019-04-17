@@ -16,7 +16,7 @@ General option：以应用生物学、化学和工程学的基本原理，利用
 
 ## 为什么选择Biotechnology
 
-作为一个相对冷门的专业，很多同学对biotechnology非常的不了解或者有一些误解。 biotechnology一向非常丰富有趣且一直为人类社会做贡献的前沿学科， 同时biotechnology也充满了神秘感和挑战性。其中涉及了物理， 化学， 数学和基因学多个领域的知识，知识涉及面广。从人体细胞中的一个DNA的组成到整个地球的生态坏境都属于biotech之中。其中的细化专业的多样性可以和个人偏好和兴趣等紧密相连，譬如生物环境，生物基因，生物化学，微生物等等。并且很多医学疑难杂症和不治之癌都是由biotechnology突破和解决。总而言之，生物的种类不可计数，生态环境各不相同，遇到的挑战千奇百怪，奇妙的策略层出不穷。![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+作为一个相对冷门的专业，很多同学对biotechnology非常的不了解或者有一些误解。 biotechnology一向非常丰富有趣且一直为人类社会做贡献的前沿学科， 同时biotechnology也充满了神秘感和挑战性。其中涉及了物理， 化学， 数学和基因学多个领域的知识，知识涉及面广。从人体细胞中的一个DNA的组成到整个地球的生态坏境都属于biotech之中。其中的细化专业的多样性可以和个人偏好和兴趣等紧密相连，譬如生物环境，生物基因，生物化学，微生物等等。并且很多医学疑难杂症和不治之癌都是由biotechnology突破和解决。总而言之，生物的种类不可计数，生态环境各不相同，遇到的挑战千奇百怪，奇妙的策略层出不穷。
 
 ## 自己是否适合biotechnology
 

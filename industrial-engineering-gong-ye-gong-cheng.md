@@ -18,7 +18,7 @@
 
 ## **如何进入专业**
 
-就本科生而言，IE要求学生在40-59的Credits Window（Cumulative Credits）内申请进入专业且GPA不可低于2.80，进入专业前需要以C或以上的成绩修完以下课程：![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+就本科生而言，IE要求学生在40-59的Credits Window（Cumulative Credits）内申请进入专业且GPA不可低于2.80，进入专业前需要以C或以上的成绩修完以下课程：
 
 [http://undergraduate.bulletins.psu.edu/undergraduate/colleges/engineering/industrial-engineering-bs/\#suggestedacademicplantext](http://undergraduate.bulletins.psu.edu/undergraduate/colleges/engineering/industrial-engineering-bs/#suggestedacademicplantext)
 

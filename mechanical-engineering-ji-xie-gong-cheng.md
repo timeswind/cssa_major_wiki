@@ -16,7 +16,7 @@
 
 ## **怎样进入机械工程专业？**
 
-想要在宾州州立大学进入机械工程专业，需要保证前三个学期的学分在40-59之间（不算AP Credit和Transfer Credit），并且Cumulative GPA必须要达到3.2以上。下图中列出的6节课必须在前四个学期上完，并且要拿到C以上的成绩。![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+想要在宾州州立大学进入机械工程专业，需要保证前三个学期的学分在40-59之间（不算AP Credit和Transfer Credit），并且Cumulative GPA必须要达到3.2以上。下图中列出的6节课必须在前四个学期上完，并且要拿到C以上的成绩。
 
 [https://advising.psu.edu/entrance-major-requirements-college-engineering-2018](https://advising.psu.edu/entrance-major-requirements-college-engineering-2018)
 
@@ -24,7 +24,7 @@
 
 宾州州立大学机械工程专业要131个学分才能毕业，比大多数120分毕业的专业高出11分，并且有很多实验课程（实验课程是需要耗费大量时间做实验的课程。通常一节3分的普通课程每个星期要花费3小时得上课时间，但是，一节3分的实验课每个星期可能要花费5个小时以上的上课时间）。所以总的来说4年上完131分的话会比120分的专业累一些，选专业前做好心理准备哦。
 
-## **机械工程专业选课指南**![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+## **机械工程专业选课指南**
 
 举个例子，上图是进入专业后，大三上学期的选课推荐。这个表格在宾州州立大学的官方网站上可以找到。不仅是进入专业后的选课推荐，入专业前也可以看这个表格选课。附上网页链接：
 
