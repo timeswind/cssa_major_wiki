@@ -20,7 +20,7 @@
 
 在本科阶段，金融专业注重给予学生一个学习金融各方面知识的机会，方向包括投资分析（investment analysis），银行及金融机构管理（management of banks and other financial institutions），企业金融管理（financial management of corporations），涵盖的话题包括商务金融（business finance），证券市场（security markets），商业银行管理（commercial bank management）等。如果以上这些有你喜欢的，那金融专业将会是一个很好的选择。
 
-总体而言，金融是一个非常广泛的领域，选择金融专业可以让你为未来投身于银行，投资，保险，企业以及政府相关的职位做好准备。许多大公司，包括美国银行美林证券（Bank of America Merrill Lynch），安永（EY）都会在金融专业中寻找未来的雇员。![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+总体而言，金融是一个非常广泛的领域，选择金融专业可以让你为未来投身于银行，投资，保险，企业以及政府相关的职位做好准备。许多大公司，包括美国银行美林证券（Bank of America Merrill Lynch）安永（EY）都会在金融专业中寻找未来的雇员。
 
 ## **选课**以及建议
 
