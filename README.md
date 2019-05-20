@@ -20,4 +20,7 @@
 * HUGO - [工业工程](industrial-engineering-gong-ye-gong-cheng.md)
 * 娜娜 - [生物](biology-sheng-wu.md)
 * 王天娇 - [中等教育](secondary-education-zhong-deng-jiao-yu.md)
+* 于童光-[电气工程](electrical-engineering-dian-qi-gong-cheng.md)
+
+
 
