@@ -1,4 +1,4 @@
-# Electrical Engineering 电器工程
+# Electrical Engineering 电气工程
 
 作者：于童光
 
