@@ -1,25 +1,24 @@
 language: node_js
 node_js:
 - 11.12.0
-
 before_deploy:
 - rm -rf ./node_modules
-
 deploy:
-  - provider: s3
-    cache_control: "max-age=86400"
-    access_key_id: AKIAUF56MZK2PB6KG6ES
-    secret_access_key:
-      secure: mhNDIt5xfkAfQZTsFvXcnX1+1SQADxcoWMbLscY41WPcmYMbj7kO+GEOqEdJvktnZ95v8wP/Gwl3tzOPgUc5LR2jzYPEozPkeBNdf2J7al1/WHPAzjOEp+3961pfztLXuLMvrWAsiCOSKUb5yezuYefgOF01yyU5ae4lXVglcW7RlKR0O2yFxW/6ukbc5iPemWnBmX2SQQqcMKplXoSRrW387hZFvr0Do+vpJHBaPFzkH6MnVFDeFgahgwV7LMDmqNkw9e72PSIkpin2QJAs5C52FeR7RdAQpSw5FXgfPourbWs2ufdfWl5kt025wyVz8htfBOAnhkqyBYWmTfRzuWNFyWjUcMbf6Dyiaeo+mr0QMhB55DZtqo1NMZrk5i5eXoyznW49yBtSdTfAg7yd3vbfcEBmEfcTW/3NDezGjqLMKsCurmJpiAuI5oPmBq7ow1opVZeBtO4PckFiraK27yTM+J8DgXfbRZ7LZKtPFmL0HseC8ORcCyOSv7PYJMHFiF4CS0rZygolhvQ2IP6PeRQxuFQCrqopWFNjbgGZygXw15TMVne0vr8nRd/6V2PicaW/XDMd1PJCi1QI28eddy2Pab7qSUacA1zpSdk9OWEJB2NZpR+KPsS44eEFid/H1SFiaE+mfAIPEHykKDjEPCZQ28Yz7Ll4UeIVhPwuy9E=
-    bucket: psucssa-xssc
-    skip_cleanup: true
-    upload-dir: books/major_wiki
-  - provider: s3
-    endpoint: https://oss-cn-hangzhou.aliyuncs.com
-    cache_control: "max-age=86400"
-    access_key_id: LTAINCPM6DeIygu0
-    secret_access_key:
-      secure: MJcaxQvKeGW5oyWOzqW3hhjA2msdeho5ShLzfEjKF77a0Z1AWWKUDysPPVNOmPrv/do5HapFBZZSFH55+zlZTVgMAhgMb7+dCUnjnL8voCWJP0taAtBa/2OYommUNtTosXpufZfgqHhPMG726wFRePc0JPzoAiUJ0zt4fOZyk9Dwbq6PrjSqUAYFSqJjxk77i061tgV+Avw00sG+NLl7XyXV8eUypUpW1wH/c61NeOqHIEv0liEw68m0TfW6enMlmKx4s5bgPI8EGeUxdc3eyIhUaDY/SuHn3LDjfN8LHmG/wOhO4B+5sNl76R00no7WsXCyd9uwcQv0jk8ttaGFbYmEW5iSKYr61OtRbM1kjKymF32vQc8WaGB5wlEZ4SfAzaFypX9JRGEf1AkofvBj+XxeZyJjMUCQQghfO3tjpOsrrRzrdfT5HVm4AL4Nc3S1oeQqB1t3og7sS460XMU4SM+epMsIJ7wtgaEwcHvd5TxuS9xiRXxNg7fzLbmlkWoAXUIJsmDlFj+hAvjGfNUrVKZndnR4CkZCNdQfpQbjGXN6JVybTs8DPXJEjuh0uoQiIhn+ZqUgE27FG9wwk0VPLIF4kYOalXWuvDQvIyFi4PXhgv0QPCdiokvtSZzlqc78ZZzT3hzYu8r473/eIyXLN0IOullulbg3Px2SOIqQjC4=
-    bucket: cssapsu
-    skip_cleanup: true
-    upload-dir: books/major_wiki
+- provider: s3
+  cache_control: max-age=86400
+  access_key_id: AKIAUF56MZK2PB6KG6ES
+  secret_access_key:
+    secure: mhNDIt5xfkAfQZTsFvXcnX1+1SQADxcoWMbLscY41WPcmYMbj7kO+GEOqEdJvktnZ95v8wP/Gwl3tzOPgUc5LR2jzYPEozPkeBNdf2J7al1/WHPAzjOEp+3961pfztLXuLMvrWAsiCOSKUb5yezuYefgOF01yyU5ae4lXVglcW7RlKR0O2yFxW/6ukbc5iPemWnBmX2SQQqcMKplXoSRrW387hZFvr0Do+vpJHBaPFzkH6MnVFDeFgahgwV7LMDmqNkw9e72PSIkpin2QJAs5C52FeR7RdAQpSw5FXgfPourbWs2ufdfWl5kt025wyVz8htfBOAnhkqyBYWmTfRzuWNFyWjUcMbf6Dyiaeo+mr0QMhB55DZtqo1NMZrk5i5eXoyznW49yBtSdTfAg7yd3vbfcEBmEfcTW/3NDezGjqLMKsCurmJpiAuI5oPmBq7ow1opVZeBtO4PckFiraK27yTM+J8DgXfbRZ7LZKtPFmL0HseC8ORcCyOSv7PYJMHFiF4CS0rZygolhvQ2IP6PeRQxuFQCrqopWFNjbgGZygXw15TMVne0vr8nRd/6V2PicaW/XDMd1PJCi1QI28eddy2Pab7qSUacA1zpSdk9OWEJB2NZpR+KPsS44eEFid/H1SFiaE+mfAIPEHykKDjEPCZQ28Yz7Ll4UeIVhPwuy9E=
+  bucket: psucssa-xssc
+  skip_cleanup: true
+  upload-dir: books/major_wiki
+- provider: s3
+  endpoint: https://oss-cn-hangzhou.aliyuncs.com
+  cache_control: max-age=86400
+  access_key_id: LTAINCPM6DeIygu0
+  secret_access_key:
+    secure: AIDTWqYXUlBFph0hj02HjiolpG1OsYHuoYv0FE4MA1+bcaBvwIvXAy4kLVhNgsQgdeq/+JBMgRQZaCu8p26zbsVFajplojouOEKf+1Be1//bNyEgXhbOf7hkmLevG2F+9z7pmSjVt9C+iU+uwy5r+Ntw6HcxxvPUXxGFbzseCSqKwhX8dEHdKy8phLYXLUAowa6FvCKSgr//ds3kZ97EHTMikiRvXqHcePXzpOD5PbtHFAG9aejAnSspSxQSVxMTHxroenQ1P5Sg4HO+5oPoH7e+ULkwIUos71O44pANil/eIEdGH6mVwaUP8HfEUO6+FcJe3C7PRHfJnBKfGL/+T+Hsg91s3TjsRU3N0+lZ0zDcoWbDAKAbSmDS92X2TsVWYFGqSRs55pYSepg3XRKMxtySdtiD1QKcc3j/ckHcGq8ky/S+geeO6AvxPZH8bmxDy8pn0uus8vYskjOdmvEB4huT014MbMQH6Jhk2p7n9LF3Fia5AUy1TKso7OShhOMqwp6hFJZSqHfBMMF7RsnstYuBCf4fJGsRNJlujz5dAJCZkU0tcxMzmMvilELwHO35fjq7mLmZj02lvtVRdUFnoS1aqG5+rXr44fCUG7EyoT7MRL7Y7TdFIOcb7HEr2MDPlcQPKV3bkyQ7Gr1RDsk0ADx3JQOT39A4cvvqePJEJss=
+  bucket: cssapsu
+  skip_cleanup: true
+  upload-dir: books/major_wiki
+
