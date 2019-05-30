@@ -2,9 +2,9 @@
 
 作者：罗添畅
 
-维护更新人员：
+维护更新人员：罗添畅
 
-最近更新：
+最近更新：2019年5月30日
 
 ## **IST学院简介**
 
@@ -33,7 +33,7 @@ IST本科学位之下有三个分支，不管哪一个分支，对需要大一�
 
 ## **Design & Development**
 
-这个分支侧重于编程（抓了抓自己所剩不多的头发！）。不同于计算机科学，IST只学习一种编程语言：Java。 进入专业以后，高年级的专业课通常是设计手机app，很多的troubleshooting等等。将来的就业方向通常会是
+这个分支侧重于编程（抓了抓自己所剩不多的头发！）。不同于计算机科学，**IST侧重学习的编程语言为Java，高年级的选修课中会有机会接触到另外的编程语言。** 进入专业以后，高年级的专业课通常是设计手机app，很多的troubleshooting等等。将来的就业方向通常会是
 
 Application Developer
 
@@ -71,11 +71,7 @@ Information policy analyst
 
 Technology industry consultant
 
-等等
-
-IST学院之下还有另外的专业，
-
-在这里和大家简单介绍下，
+等等，IST学院之下还有另外的专业，在这里和大家简单介绍下。
 
 ## **Security Risk Analysis**
 
@@ -96,7 +92,7 @@ IST学院之下还有另外的专业，
 ## **另外聊一聊**
 
 1. 经常有同学IST和Security Risk Analysis double major（厉害！），因为有一部分重合的课。但是Data Science和Cybersecurity Analytics and Operations是不能和别的专业double major的。
-2. IST学院的很多高年级的课程会有公司来课上做Project（比如 Geico，Ernst & Young）可以说是很实用也很挑战了。
+2. IST学院的很多高年级的课程会有公司来课上做Project（比如 Geico-美国知名保险公司，Ernst & Young）可以说是很实用也很挑战了。
 3. IST学院的所有专业进专业的GPA要求都是2.0。Cybersecurity Analytics and Operations这个专业，只有在University Park才有。
 4. https://ist.psu.edu/
 
@@ -109,10 +105,6 @@ IST学院之下还有另外的专业，
 
 
 ![](.gitbook/assets/ist6.png)
-
-最后希望这篇推送对大家有帮助，各位都能找到自己想学的专业，学有所成！
-
-也请继续关注CSSA公众号以及我们的专业百科专栏。有想看另外的专业，就在这篇推送评论留言，或者去CSSA公众号留言~
 
 ### **花絮 － IST的学生日常？**
 
