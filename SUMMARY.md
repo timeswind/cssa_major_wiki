@@ -17,4 +17,5 @@
 * [Industrial Engineering 工业工程](industrial-engineering-gong-ye-gong-cheng.md)
 * [Biology 生物](biology-sheng-wu.md)
 * [Electrical Engineering 电气工程](electrical-engineering.md)
+* [Journalism 新闻学](journalism-xin-wen-xue.md)
 
