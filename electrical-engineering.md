@@ -2,6 +2,8 @@
 
 作者：于童光
 
+更新日期：2019/11/6
+
 ## 什么是电气工程 <a id="shen-me-shi-dian-qi-gong-cheng"></a>
 
 电气工程（Electrical Engineering）是一个专业的工程学科，通常涉及到对电力，电子，以及电磁学的研究和应用。‌
