@@ -40,5 +40,7 @@ EE要求学生的GPA不低于2.6 并且进专业之前要求修完CHEM110，MATH
 
 [Electrical Engineering \(EE\) \| Penn Statebulletins.psu.edu](https://bulletins.psu.edu/university-course-descriptions/undergraduate/ee/)
 
+## 最后再说两句
 
+EE 专业的核心课程 EE 330/340/350 是本科中最困难的三节课。 如果可能的话可以尽量将这三节课分配的不同学期。
 
