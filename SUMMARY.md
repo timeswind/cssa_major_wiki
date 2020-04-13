@@ -17,5 +17,4 @@
 * [Industrial Engineering 工业工程](industrial-engineering-gong-ye-gong-cheng.md)
 * [Biology 生物](biology-sheng-wu.md)
 * [Electrical Engineering电气工程](electrical-engineering-dian-qi-gong-cheng.md)
-* [Electrical Engineering 电气工程](electrical-engineering-dian-qi-gong-cheng-1.md)
 
