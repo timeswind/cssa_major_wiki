@@ -10,13 +10,13 @@
 
 包括Penn State, 美国和中国绝大部分院校的建筑学本科是五年制。在PSU，建筑学本科项目需要最少162学分来达到毕业要求。作为和景观一起独占最酷教学楼Stuckeman Family Building的专业，建筑学拥有美国环境最好的建筑学工作室之一和常用设备比如绘图机，laser cutter, 3d打印机和CNC，以及位于Stuckeman Family Building一层的独立图书馆，每年的career fair也在楼里举行。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/j6m3uZgXnCKgZ8FbCibovUotZ7fDr0ahdOCLduZXwv8L1xohls1OWJLgWT9Dvf2NnWMddzL65SHbS8HyibHMmdjQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/mmbiz\_jpg/j6m3uZgXnCKgZ8FbCibovUotZ7fDr0ahdOCLduZXwv8L1xohls1OWJLgWT9Dvf2NnWMddzL65SHbS8HyibHMmdjQ/640?wx\_fmt=jpeg\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
 
 ## **怎样进专业？**
 
-建筑学专业进专业GPA要求是2.0，根据不同学业背景的学生有不同的进专业截止日期也有所不同，详细可以查看：https://artsandarchitecture.psu.edu/howtoapply/architecture![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+建筑学专业进专业GPA要求是2.0，根据不同学业背景的学生有不同的进专业截止日期也有所不同，详细可以查看：https://artsandarchitecture.psu.edu/howtoapply/architecture![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LWSmx2BuqN7pa9uVDeP%2Fuploads%2F38ypkIo5SWud3fZAOr7s%2Ffile.gif?alt=media)![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LWSmx2BuqN7pa9uVDeP%2Fuploads%2FzsRze34gxVMQ2EdiD0xM%2Ffile.gif?alt=media)
 
-## **Q&A**
+## **Q\&A**
 
 **Q：**学建筑学需要有画画基础吗?
 
@@ -50,7 +50,5 @@
 
 **作者：**不必须，不强制，对于刷夜有特殊喜好不反对。画图诚可贵，健康价更高。
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/j6m3uZgXnCKgZ8FbCibovUotZ7fDr0ahd7jDcD7s9LZmHHpJiaGPRBb33PBh85ts7VkTyHwmUiadHiaTbYaprOxalw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
-
-
+![](https://mmbiz.qpic.cn/mmbiz\_gif/j6m3uZgXnCKgZ8FbCibovUotZ7fDr0ahd7jDcD7s9LZmHHpJiaGPRBb33PBh85ts7VkTyHwmUiadHiaTbYaprOxalw/640?wx\_fmt=gif\&tp=webp\&wxfrom=5\&wx\_lazy=1)
 

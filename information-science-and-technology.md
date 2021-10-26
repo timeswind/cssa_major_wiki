@@ -20,7 +20,7 @@ Information Science and Technology专业开设与1998年，高端的教学楼在
 
 专业开设的目的是为了在基础的计算机科学（Computer Science），信息系统管理（Management Info System）之上，对新兴科技和对商业，媒体等不同行业领域进行结合。IST的学生不仅学习编程，数据库，信息系统的基础知识，也需要通过不同的Project去运用到现实生活中的个人，组织，甚至国际公司上来解决存在的或者潜在的问题。很多课程会也涉及现在很火的Big Data，Cloud Computing这些话题。
 
-这样说或许还是有些笼统，学院的专业下面还设置了四个本科学位的分支，让学生能更好的结合科技与现实运用。下面的板块给大家介绍一下Information Science and Technology本科学位 \(下图左上角\)。  
+这样说或许还是有些笼统，学院的专业下面还设置了四个本科学位的分支，让学生能更好的结合科技与现实运用。下面的板块给大家介绍一下Information Science and Technology本科学位 (下图左上角)。\
 
 
 ![](.gitbook/assets/ist3.jpeg)
@@ -83,8 +83,8 @@ Technology industry consultant
 
 ## **Cybersecurity Analytics and Operations**
 
-网络安全分析这个专业有很多数学与编程的课。通常需要从很多方面考虑因素来保证信息安全。会学到很多有关Hacker的东西。课程安排也是很多。  
-  
+网络安全分析这个专业有很多数学与编程的课。通常需要从很多方面考虑因素来保证信息安全。会学到很多有关Hacker的东西。课程安排也是很多。\
+\
 
 
 ![](.gitbook/assets/ist5.gif)
@@ -94,10 +94,9 @@ Technology industry consultant
 1. 经常有同学IST和Security Risk Analysis double major（厉害！），因为有一部分重合的课。但是Data Science和Cybersecurity Analytics and Operations是不能和别的专业double major的。
 2. IST学院的很多高年级的课程会有公司来课上做Project（比如 Geico-美国知名保险公司，Ernst & Young）可以说是很实用也很挑战了。
 3. IST学院的所有专业进专业的GPA要求都是2.0。Cybersecurity Analytics and Operations这个专业，只有在University Park才有。
-4. https://ist.psu.edu/
+4.  https://ist.psu.edu/
 
-   是学院的官网，建议有意向的同学仔细去看一看，里面确实有不少有用的信息。
-
+    是学院的官网，建议有意向的同学仔细去看一看，里面确实有不少有用的信息。
 5. **IST110**好像有点水，嘿嘿。
 6. IST专业在本科期间需要完成一份300小时以上的实习（国内外皆可，但需要和学校联系进行认证）才能毕业哦。
 7. 学院有自己的Career Fair，也有自己的Career Consulting给大家提供各种寻找实习，求职，简历完善方面的帮助。
@@ -121,4 +120,3 @@ Technology industry consultant
 我：“哦哈哈哈（和蔼又很烦的表情管理着）是Information Science Technology。”
 
 ![](.gitbook/assets/ist7.gif)
-

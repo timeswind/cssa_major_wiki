@@ -34,20 +34,18 @@
 
 ## 选课及建议
 
-_**PSU进CS专业的最低GPA要求是3.0 with credit window: 40-59.**_ PSU的CS课没有水课（残酷的现实\), 希望大家认认真真上课！因为CS课程较难，如果担心会影响GPA，可以选一些其他相对简单的课程来保持自己的GPA。如果已经确认要学CS，主校的同学可以利用暑假的时间自学一下Python以及CS相关知识，其他校区的同学可以先自学一下C++，会很有帮助。
+_**PSU进CS专业的最低GPA要求是3.0 with credit window: 40-59. **_PSU的CS课没有水课（残酷的现实), 希望大家认认真真上课！因为CS课程较难，如果担心会影响GPA，可以选一些其他相对简单的课程来保持自己的GPA。如果已经确认要学CS，主校的同学可以利用暑假的时间自学一下Python以及CS相关知识，其他校区的同学可以先自学一下C++，会很有帮助。
 
 更详细的CS介绍：
 
-[https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/\#text](https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/#text)
+[https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/#text](https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/#text)
 
 ## 编程学习
 
 很多新生会问学CS是不是就要上很多**编程课**啊，其实并不是。PSU的本科计算机科学课程更多的是着重于计算机原理，编程只占一小部分（与大家平日对于程序员的印象相比）。同学更多会学习计算机软硬件的底层实现，编程的project当然也有，但都是基于你对于软件硬件的理解的基础上来进行的。好多同学会花很多时间在coding的project中，可能会觉得自己因为编程的基础不行所以导致花了过多的时间，但实际上是对于计算机底层内容的理解程度不足。小编建议大家上计算机相关的课程要好好理解背后的原理，把编程作为自己的工具而不是目标。
 
-由于大学里并不会教你很多当下软件行业的编程技术，你可以通过自学来加强自己对于编程语言的熟练度。例如你可以上 [https://www.codecademy.com/](https://www.codecademy.com/) 这类的网站来学习。
+由于大学里并不会教你很多当下软件行业的编程技术，你可以通过自学来加强自己对于编程语言的熟练度。例如你可以上 [https://www.codecademy.com/](https://www.codecademy.com) 这类的网站来学习。
 
 ## 最后再多说几句
 
-很多人问我CS难吗，我的回答是难。没有丝毫夸大其词，虚张声势的意思，CS真的是相对来说比较难的学科。**如果CS不是你热爱的，那么最好不要选这个专业。如果你确定自己要靠着这满腔的热爱要走上这条路，那么请一定坚持下去，未来是属于你们的！**  
-
-
+很多人问我CS难吗，我的回答是难。没有丝毫夸大其词，虚张声势的意思，CS真的是相对来说比较难的学科。**如果CS不是你热爱的，那么最好不要选这个专业。如果你确定自己要靠着这满腔的热爱要走上这条路，那么请一定坚持下去，未来是属于你们的！**\

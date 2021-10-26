@@ -12,7 +12,7 @@ Biotechnology分为两大类：第一类是clinical option，第二类general op
 
 Clinical option：在大型医院里检验，检测人体体液、血液、排泄物、感染微生物等标本，通过客观准确的化验指标，为临床医生提供治疗依据。 是全球各个国家医疗系统中必不可少的一部分。
 
-General option：以应用生物学、化学和工程学的基本原理，利用生物体\(包括微生物，动物细胞和植物细胞\) 或其组成部分\(细胞器和酶\) 来生产有用物质，或为人类提供某种服务的技术。包括基因工程、细胞工程、蛋白质工程、酶工程以及生化工程所取得的成果，利用生物转化特点生产化工产品，特别是用一般化工手段难以得到的新产品，改变现有工艺，解决长期被困扰的能源危机和环境污染两大棘手问题
+General option：以应用生物学、化学和工程学的基本原理，利用生物体(包括微生物，动物细胞和植物细胞) 或其组成部分(细胞器和酶) 来生产有用物质，或为人类提供某种服务的技术。包括基因工程、细胞工程、蛋白质工程、酶工程以及生化工程所取得的成果，利用生物转化特点生产化工产品，特别是用一般化工手段难以得到的新产品，改变现有工艺，解决长期被困扰的能源危机和环境污染两大棘手问题
 
 ## 为什么选择Biotechnology
 
@@ -44,12 +44,12 @@ Clinical option来说，2.0的GPA无法加入最后一年的专业训练。大�
 
 ### General option 推荐课程安排：
 
-_http://bmb.psu.edu/undergraduate/academic-advising-1/raps/biotechnology-major-general-option/rap-biotc-gen-su17_  
+_http://bmb.psu.edu/undergraduate/academic-advising-1/raps/biotechnology-major-general-option/rap-biotc-gen-su17_\
 
 
 #### 课程要求：
 
-_http://bmb.psu.edu/undergraduate/academic-advising-1/current-major-requirement-checklist/biotechnology-major-general-option/cr-biotc-gen-sp17_            
+_http://bmb.psu.edu/undergraduate/academic-advising-1/current-major-requirement-checklist/biotechnology-major-general-option/cr-biotc-gen-sp17 _         \
 
 
 ### Clinical option 推荐课程安排：
@@ -62,6 +62,4 @@ _http://bmb.psu.edu/undergraduate/academic-advising-1/current-major-requirement-
 
 ## 最后再说几句
 
-每一个biotech的学生都是勇敢而坚强的光头强~ Biotech中最大的困难就是寂寞。小伙伴们约你一起读书时，你要看着显微镜下的细胞。小伙伴们玩耍时，你要计算buffer和培养基的比例；小伙伴们回国经历各种各样的实习时：你要想办法在实验室里把报告写出来。不过呢，biotech是一项厚积薄发的学科，每当有一个小小的发现，都会有可能为社会做一些小贡献。Biotech会让人有满足感，有站在世界前沿的感觉。 用一份温暖的鸡汤就是： **Biotech会让人为了有足够的生命去知晓宇宙中的一切，为了获得无穷的幸福快乐，须得长生。**  
-
-
+每一个biotech的学生都是勇敢而坚强的光头强\~ Biotech中最大的困难就是寂寞。小伙伴们约你一起读书时，你要看着显微镜下的细胞。小伙伴们玩耍时，你要计算buffer和培养基的比例；小伙伴们回国经历各种各样的实习时：你要想办法在实验室里把报告写出来。不过呢，biotech是一项厚积薄发的学科，每当有一个小小的发现，都会有可能为社会做一些小贡献。Biotech会让人有满足感，有站在世界前沿的感觉。 用一份温暖的鸡汤就是： **Biotech会让人为了有足够的生命去知晓宇宙中的一切，为了获得无穷的幸福快乐，须得长生。**\
